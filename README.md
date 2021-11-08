@@ -1,2 +1,2 @@
-# Preposal
+# Preposal + Proposal
 GitHub lab
