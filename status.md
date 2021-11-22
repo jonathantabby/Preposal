@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Jonathan Mazor
 
 #### Your section leader's name
 
-TODO
+Me
 
 #### Project title
 
-TODO
+Powered-Up Pong
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Basic Pong program is almost complete, except for the "AI" part.
 
 #### What have you not done for your project yet?
 
-TODO
+AI, powerups, sound effects.
 
 #### What problems, if any, have you encountered?
 
-TODO
+N/A
